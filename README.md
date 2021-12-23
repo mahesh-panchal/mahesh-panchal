@@ -8,8 +8,8 @@ and annotation workflow for the Swedish Pilot Project in the Earth Biogenome Pro
 reproducible, using version control, workflow managers, and containerized software. The following template is the starting point for my work, 
 keeping it organised, and hopefully easy to follow and extend for those I support.
 
-- Earth Biogenome Project pilot workflow: https://github.com/NBISweden/Earth-Biogenome-Project-pilot
-- Personal project support template: https://github.com/mahesh-panchal/NBIS_project_template
+- [Earth Biogenome Project pilot workflow](https://github.com/NBISweden/Earth-Biogenome-Project-pilot)
+- [Personal project support template](https://github.com/mahesh-panchal/NBIS_project_template)
 
 I'm adept at programming, and writing workflows in particular. I'm well versed in Bash scripting, as well being able to use Perl, awk, sed, 
 and R too. I write workflows using the Nextflow workflow language, based on Groovy. I have also used various other languages in the past 
@@ -20,12 +20,12 @@ as well as Github Actions for automation, and Gitpod as a development environmen
 In addition, I contribute to the nf-core community, helping answer questions and develop best-practice workflows. Some notable contributions
 include:
 
-- Driving nf-core to use native syntax for workflow data publishing and tool parameter passing, as demonstrated in this [proof-of-concept pull request](https://github.com/nf-core/rnaseq/pull/701)
-- Adding a [dev environment for testing modules](https://github.com/nf-core/modules/pull/1151)
+- [Driving nf-core to use native syntax for workflow data publishing and tool parameter passing](https://github.com/nf-core/rnaseq/pull/701)
+- [Adding a dev environment for testing modules](https://github.com/nf-core/modules/pull/1151)
 
 As a certified Carpentries Instructor, I help develop and teach The Carpentries Introduction to Nextflow.
 
-- Introduction to Nextflow and nf-core: https://github.com/carpentries-incubator/workflows-nextflow
+- [Introduction to Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/arcane_mahesh" target="blank"><img src="https://img.shields.io/twitter/follow/arcane_mahesh?logo=twitter&style=for-the-badge" alt="arcane_mahesh" /></a> </p>
