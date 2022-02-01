@@ -1,3 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mahesh-binzer-panchal-79a726a2/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/arcane_mahesh" target="blank">
+    <img src="https://img.shields.io/twitter/follow/arcane_mahesh?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Mahesh Binzer-Panchal</h1>
 <h3 align="center">A bioinformatician working for the National Bioinformatics Infrastructure Sweden.</h3>
 
@@ -27,10 +39,6 @@ include:
 As a certified Carpentries Instructor, I help develop and teach The Carpentries Introduction to Nextflow.
 
 - [Introduction to Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/arcane_mahesh" target="blank"><img src="https://img.shields.io/twitter/follow/arcane_mahesh?logo=twitter&style=for-the-badge" alt="arcane_mahesh" /></a> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
