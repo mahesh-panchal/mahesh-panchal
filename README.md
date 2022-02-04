@@ -35,6 +35,11 @@ include:
 - [Driving nf-core to use native syntax for workflow data publishing and tool parameter passing](https://github.com/nf-core/rnaseq/pull/701)
   - Hear Dr H Patel explain the work at the nf-core Hackathon on [Youtube](https://www.youtube.com/watch?v=Lo2jXn8tHU0).
 - [Adding a Gitpod dev environment for testing workflows, tools, and modules](https://github.com/nf-core/tools/pull/1384)
+- Enabling the process `when:` declaration to be used from a configuration file.
+  - [Template update](https://github.com/nf-core/tools/pull/1393).
+  - [Update all modules](https://github.com/nf-core/modules/pull/1261).
+  - [Documentation update](https://github.com/nf-core/nf-co.re/pull/1012).
+  - [Module Linter update](https://github.com/nf-core/tools/pull/1397).
 
 As a certified Carpentries Instructor, I help develop and teach The Carpentries Introduction to Nextflow.
 
