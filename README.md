@@ -37,7 +37,7 @@ include:
 - [Adding a Gitpod dev environment for testing workflows, tools, and modules](https://github.com/nf-core/tools/pull/1384)
 - Enabling the process `when:` declaration to be used from a configuration file.
   - [Template update](https://github.com/nf-core/tools/pull/1393).
-  - [Update all modules](https://github.com/nf-core/modules/pull/1261).
+  - [Update existing modules](https://github.com/nf-core/modules/pull/1261).
   - [Documentation update](https://github.com/nf-core/nf-co.re/pull/1012).
   - [Module Linter update](https://github.com/nf-core/tools/pull/1397).
 
