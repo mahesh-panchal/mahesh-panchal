@@ -45,7 +45,7 @@ As a certified Carpentries Instructor, I help develop and teach The Carpentries 
 
 - [Introduction to Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow)
   
-  Learn using Gitpod - A collaborative developer environment.
+  Learn Nextflow using Gitpod - A collaborative developer environment.
   
   [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/carpentries-incubator/workflows-nextflow) 
 
