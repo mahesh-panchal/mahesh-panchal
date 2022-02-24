@@ -40,6 +40,7 @@ include:
   - [Update existing modules](https://github.com/nf-core/modules/pull/1261).
   - [Documentation update](https://github.com/nf-core/nf-co.re/pull/1012).
   - [Module Linter update](https://github.com/nf-core/tools/pull/1397).
+  - Hear Dr M Garcia explain how he used this to tidy up the nf-core Sarek codebase on [YouTube](https://www.youtube.com/watch?v=17NqUsh73BU) 
 
 As a certified Carpentries Instructor, I help develop and teach The Carpentries Introduction to Nextflow.
 
