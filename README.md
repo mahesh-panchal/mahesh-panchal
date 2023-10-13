@@ -10,8 +10,8 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mahesh Binzer-Panchal</h1>
-<h3 align="center">A bioinformatician working for the National Bioinformatics Infrastructure Sweden.</h3>
+# Hi 👋, I'm Mahesh Binzer-Panchal
+### A bioinformatician working for the National Bioinformatics Infrastructure Sweden.
 
 I support research groups by performing bioinformatic analyses and developing workflows on [request](https://nbis.se/support/support.html). 
 My bioinformatic expertise focuses on de novo genome assembly, but I am also able to perform other sequence based analyses, such as variant 
