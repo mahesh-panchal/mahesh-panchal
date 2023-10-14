@@ -85,6 +85,7 @@ mindmap
       Markdown
       Latex
       Wikitext
+      HTML
     Diagramming
       Mermaid
       Graphviz
@@ -100,6 +101,7 @@ mindmap
       Github actions
       Make
       Nextflow
+      Quarto
     Developer environments
       MacOs
       Linux
