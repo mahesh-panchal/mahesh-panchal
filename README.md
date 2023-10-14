@@ -52,6 +52,61 @@ As a certified Carpentries Instructor, I help develop and teach The Carpentries 
 
 ### Languages and Tools:
 
+```mermaid
+mindmap
+  root((Tools))
+    Programming Languages
+      Bash
+      Awk
+      Nextflow/Groovy
+      R
+      Perl
+      SQL
+      Jq
+      Python
+      Haskell
+      Turing
+      Assembly
+      Prolog
+      Java
+      C
+      C++
+      Basic
+    Package management
+      Conda/Mamba
+      Docker
+      Singularity/Apptainer
+      Virtual env
+      Modules
+    Version control
+      Git
+      Github
+    Markup
+      Markdown
+      Latex
+      Wikitext
+    Diagramming
+      Mermaid
+      Graphviz
+    Literate programming
+      Quarto
+      RMarkdown
+    Project management
+      Github
+      Trello
+      Confluence
+      Notion
+    Automation
+      Github actions
+      Make
+      Nextflow
+    Developer environments
+      MacOs
+      Linux
+      Gitpod
+      HPC
+```
+
 | Tools |   |
 |----|---|
 | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux</a> | |
