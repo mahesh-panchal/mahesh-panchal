@@ -15,13 +15,11 @@
 
 I support research groups by performing bioinformatic analyses and developing workflows on [request](https://nbis.se/support/support.html). 
 My bioinformatic expertise focuses on de novo genome assembly, but I am also able to perform other sequence based analyses, such as variant 
-calling, amplicon analysis, ancient DNA analysis, and more. In addition to my support work, I'm currently helping develop a genome assembly 
-and annotation workflow for the Swedish Pilot Project in the Earth Biogenome Project. As part of my support work, I aim to make my work 
-reproducible, using version control, workflow managers, and containerized software. The following template is the starting point for my work, 
-keeping it organised, and hopefully easy to follow and extend for those I support.
-
-- [Earth Biogenome Project pilot workflow](https://github.com/NBISweden/Earth-Biogenome-Project-pilot)
-- [Personal project support template](https://github.com/mahesh-panchal/NBIS_project_template)
+calling, amplicon analysis, ancient DNA analysis, and more. In addition to my support work, I'm currently helping develop a 
+[genome assembly and annotation workflow](https://github.com/NBISweden/Earth-Biogenome-Project-pilot) for the Swedish Pilot Project 
+in the Earth Biogenome Project. As part of my support work, I aim to make my work reproducible, using version control, workflow managers, 
+and containerized software. I use [this template](https://github.com/mahesh-panchal/NBIS_project_template) as the starting point for my work,
+keeping data, files, and code organised, and hopefully easy to follow and extend for those I support.
 
 I'm adept at programming, and writing workflows in particular. I'm well versed in Bash scripting, as well being able to use Perl, awk, sed, 
 and R too. I write workflows using the Nextflow workflow language, based on Groovy. I have also used various other languages in the past 
@@ -64,14 +62,6 @@ mindmap
       SQL
       Jq
       Python
-      Haskell
-      Turing
-      Assembly
-      Prolog
-      Java
-      C
-      C++
-      Basic
     Package management
       Conda/Mamba
       Docker
@@ -88,7 +78,6 @@ mindmap
       HTML
     Diagramming
       Mermaid
-      Graphviz
     Literate programming
       Quarto
       RMarkdown
@@ -108,13 +97,6 @@ mindmap
       Gitpod
       HPC
 ```
-
-| Tools |   |
-|----|---|
-| <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux</a> | |
-| <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> Bash</a> | <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> Perl</a> |
-| <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git</a> | |
-| <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker</a> | |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-panchal&show_icons=true&locale=en&layout=compact" alt="mahesh-panchal" /></p>
 
