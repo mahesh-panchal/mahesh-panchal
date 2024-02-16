@@ -22,33 +22,40 @@ and containerized software. I use [this template](https://github.com/mahesh-panc
 keeping data, files, and code organised, and hopefully easy to follow and extend for those I support.
 
 I'm adept at programming, and writing workflows in particular. I'm well versed in Bash scripting, as well being able to use Perl, awk, sed, 
-and R too. I write workflows using the Nextflow workflow language, based on Groovy. I have also used various other languages in the past 
-including Java, C, C++, Turing, Haskell, Prolog, and Assembly, as well database languages such as PostgresQL. I'm also familiar with various 
+and R too. I write workflows using the Nextflow workflow language, based on Groovy. I have used various other languages in the past 
+including Java, C, C++, Turing, Haskell, Prolog, and Assembly, including database languages such as PostgresQL. I'm familiar with various 
 markup and serialization languages such as Markdown, HTML, Wiki Markup, Latex, and YAML. In my work, I regularity use Git, Docker, and Singularity, 
-as well as Github Actions for automation, and Gitpod as a development environment.
+as well as Github Actions and Makefiles for automation, and Gitpod as a development environment.
 
-In addition, I contribute to the nf-core community, helping answer questions and develop best-practice workflows. Some notable contributions
-include:
+#### Nextflow and nf-core
+I contribute to the nf-core and Nextflow community, helping answer questions and develop best-practice workflows.
 
-- [Driving nf-core to use native syntax for workflow data publishing and tool parameter passing](https://github.com/nf-core/rnaseq/pull/701)
-  - Hear Dr H Patel explain the work at the nf-core Hackathon on [Youtube](https://www.youtube.com/watch?v=Lo2jXn8tHU0).
-- [Adding a Gitpod dev environment for testing workflows, tools, and modules](https://github.com/nf-core/tools/pull/1384)
-- Enabling the process `when:` declaration to be used from a configuration file.
-  - [Template update](https://github.com/nf-core/tools/pull/1393).
-  - [Update existing modules](https://github.com/nf-core/modules/pull/1261).
-  - [Documentation update](https://github.com/nf-core/nf-co.re/pull/1012).
-  - [Module Linter update](https://github.com/nf-core/tools/pull/1397).
-  - Hear Dr M Garcia explain how he used this to tidy up the nf-core Sarek codebase on [YouTube](https://www.youtube.com/watch?v=17NqUsh73BU) 
+<details>
+  <summary>Expand for my notable contributions</summary>
 
-As a certified Carpentries Instructor, I help develop and teach The Carpentries Introduction to Nextflow.
+  - [Driving nf-core to use native syntax for workflow data publishing and tool parameter passing](https://github.com/nf-core/rnaseq/pull/701)
+    - Hear Dr H Patel explain the work at the nf-core Hackathon on [Youtube](https://www.youtube.com/watch?v=Lo2jXn8tHU0).
+  - [Adding a Gitpod dev environment for testing workflows, tools, and modules](https://github.com/nf-core/tools/pull/1384)
+  - Enabling the process `when:` declaration to be used from a configuration file.
+    - [Template update](https://github.com/nf-core/tools/pull/1393).
+    - [Update existing modules](https://github.com/nf-core/modules/pull/1261).
+    - [Documentation update](https://github.com/nf-core/nf-co.re/pull/1012).
+    - [Module Linter update](https://github.com/nf-core/tools/pull/1397).
+    - Hear Dr M Garcia explain how he used this to tidy up the nf-core Sarek codebase on [YouTube](https://www.youtube.com/watch?v=17NqUsh73BU)
+  - Code reviews for large pipelines such as nf-core/Sarek, nf-core/HiCar and nf-core/Metatdenovo.
+  - The addition of several tools for genome assembly to nf-core/modules
+
+</details>
+
+#### Teaching
+
+I am a certified Carpentries Instructor. I have helped develop The Carpentries Introduction to Nextflow.
 
 - [Introduction to Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow)
-  
-  Learn Nextflow using Gitpod - A collaborative developer environment (Nextflow, nf-core, git, docker, conda, and mamba are preinstalled).
-  
-  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/carpentries-incubator/workflows-nextflow) 
 
 ### Languages and Tools:
+
+As a bioinformatician, I use a variety of tools to aid my work. These are tools I have used in recent years.
 
 ```mermaid
 mindmap
