@@ -30,6 +30,8 @@ as well as Github Actions and Makefiles for automation, and Gitpod as a developm
 #### Nextflow and nf-core
 I contribute to the nf-core and Nextflow community, helping answer questions and develop best-practice workflows.
 
+I'm currently a [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html), and an [nf-core Maintainer](https://nf-co.re/governance#maintainers). 
+
 <details>
   <summary>Expand for my notable contributions</summary>
 
