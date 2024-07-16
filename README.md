@@ -46,6 +46,7 @@ I'm currently a [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html),
     - Hear Dr M Garcia explain how he used this to tidy up the nf-core Sarek codebase on [YouTube](https://www.youtube.com/watch?v=17NqUsh73BU)
   - Code reviews for large pipelines such as nf-core/Sarek, nf-core/HiCar and nf-core/Metatdenovo.
   - The addition of several tools for genome assembly to nf-core/modules
+  - Demonstrating how to chain existing workflows in a meta-pipeline: https://github.com/mahesh-panchal/nf-cascade.
 
 </details>
 
