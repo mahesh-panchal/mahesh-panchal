@@ -28,7 +28,9 @@ markup and serialization languages such as Markdown, HTML, Wiki Markup, Latex, a
 as well as Github Actions and Makefiles for automation, and Gitpod as a development environment.
 
 #### Nextflow and nf-core
+
 I contribute to the nf-core and Nextflow community, helping answer questions and develop best-practice workflows.
+- [A thank you from Phil Ewels on behalf of the nf-core community at the Nextflow summit](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
 
 I'm currently a [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html), and an [nf-core Maintainer](https://nf-co.re/governance#maintainers). 
 
