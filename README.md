@@ -1,17 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mahesh-binzer-panchal-79a726a2/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/arcane_mahesh" target="blank">
-    <img src="https://img.shields.io/twitter/follow/arcane_mahesh?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-</div>
+```mermaid
+%%{init: {'theme':'forest'}}%%
+flowchart LR
+  data_analyst>Data Analyst] --> da_tasks{Analyse Data} --> gather_requirements[Gather Requirements] --> explore[Exploratory Analysis] --> visualise[Create Visualisations] --> report[Report Insights]
+  pipeline_dev>Pipeline Developer] --> pd_tasks{Develop Pipeline} --> design[Design Pipeline] --> implement[Implement Processes] --> optimize[Optimise Dataflow] --> monitor[Monitor Performance]
+```
 
-# Hi 👋, I'm Mahesh Binzer-Panchal
-### A bioinformatician working for the National Bioinformatics Infrastructure Sweden.
+# Hi there 👋, I'm Mahesh Binzer-Panchal
+
+## Bioinformatician | Nextflow Ambassador | nf-core Maintainer
+
+### At the National Bioinformatics Infrastructure Sweden, SciLifeLab.
 
 I support research groups by performing bioinformatic analyses and developing workflows on [request](https://nbis.se/support/support.html). 
 My bioinformatic expertise focuses on de novo genome assembly, but I am also able to perform other sequence based analyses, such as variant 
