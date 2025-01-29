@@ -7,7 +7,7 @@ flowchart LR
 
 # Hi there 👋, I'm Mahesh Binzer-Panchal
 
-## Bioinformatician | Nextflow Ambassador | nf-core Maintainer
+## Bioinformatician | Instructor | Nextflow Ambassador | nf-core Maintainer
 
 ### At the National Bioinformatics Infrastructure Sweden, SciLifeLab.
 
