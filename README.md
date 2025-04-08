@@ -7,15 +7,16 @@ flowchart LR
 
 # Hi there 👋
 
+### I'm Mahesh Binzer-Panchal
+
 <table border="0" width="100%">
   <tr>
     <td>
-I'm Mahesh Binzer-Panchal
 
 - Bioinformatician
 - Instructor
 - Nextflow Ambassador
-- nf-core Maintainer      
+- nf-core Maintainer
     </td>
     <td>
 ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh-panchal&show_icons=true&theme=radical)      
