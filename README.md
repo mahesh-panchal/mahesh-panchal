@@ -5,10 +5,25 @@ flowchart LR
   pipeline_dev>Pipeline Developer] --> pd_tasks{Develop Pipeline} --> design[Design Pipeline] --> implement[Implement Processes] --> optimize[Optimise Dataflow] --> monitor[Monitor Performance]
 ```
 
-# Hi there 👋, I'm Mahesh Binzer-Panchal
+# Hi there 👋
 
-## Bioinformatician | Instructor | Nextflow Ambassador | nf-core Maintainer
+<table border="0" width="100%">
+  <tr>
+    <td>
+I'm Mahesh Binzer-Panchal
 
+- Bioinformatician
+- Instructor
+- Nextflow Ambassador
+- nf-core Maintainer      
+    </td>
+    <td>
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh-panchal&show_icons=true&theme=radical)      
+    </td>
+  </tr>
+</table>
+
+## Bioinformatician: 
 ### At the National Bioinformatics Infrastructure Sweden, SciLifeLab.
 
 I support research groups by performing bioinformatic analyses and developing workflows on [request](https://nbis.se/support/support.html). 
@@ -19,13 +34,17 @@ in the Earth Biogenome Project. As part of my support work, I aim to make my wor
 and containerized software. I use [this template](https://github.com/mahesh-panchal/NBIS_project_template) as the starting point for my work,
 keeping data, files, and code organised, and hopefully easy to follow and extend for those I support.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Earth-Biogenome-Project-pilot)](https://github.com/NBISweden/Earth-Biogenome-Project-pilot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow)](https://github.com/NBISweden/pipelines-nextflow)
+
+
 I'm adept at programming, and writing workflows in particular. I'm well versed in Bash scripting, as well being able to use Perl, awk, sed, 
 and R too. I write workflows using the Nextflow workflow language, based on Groovy. I have used various other languages in the past 
 including Java, C, C++, Turing, Haskell, Prolog, and Assembly, including database languages such as PostgresQL. I'm familiar with various 
 markup and serialization languages such as Markdown, HTML, Wiki Markup, Latex, and YAML. In my work, I regularity use Git, Docker, and Singularity, 
 as well as Github Actions and Makefiles for automation, and Gitpod as a development environment.
 
-#### Nextflow and nf-core
+## Nf-core Maintainer and Nextflow Ambassador
 
 I contribute to the nf-core and Nextflow community, helping answer questions and develop best-practice workflows.
 - [A thank you from Phil Ewels on behalf of the nf-core community at the Nextflow summit](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
@@ -50,11 +69,22 @@ I'm currently a [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html),
 
 </details>
 
-#### Teaching
+### Interesting Nextflow repos
 
-I am a certified Carpentries Instructor. I have helped develop The Carpentries Introduction to Nextflow.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahesh-panchal&repo=nf-cascade)](https://github.com/mahesh-panchal/nf-cascade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahesh-panchal&repo=nf-metaomics-daisychain)](https://github.com/mahesh-panchal/nf-metaomics-daisychain)
 
-- [Introduction to Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow)
+## Instructor
+
+I am a certified Carpentries Instructor. I have helped develop [The Carpentries Introduction to Nextflow](https://github.com/carpentries-incubator/workflows-nextflow).
+
+I'm a teaching assistant on the NBIS/Elixir Tools for Reproducible Research course:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=workshop-reproducible-research)](https://github.com/NBISweden/workshop-reproducible-research)
+
+I also engage in team development:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Training-Tech-shorts)](https://github.com/NBISweden/Training-Tech-shorts)
 
 ### Languages and Tools:
 
@@ -107,7 +137,3 @@ mindmap
       Gitpod
       HPC
 ```
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-panchal&show_icons=true&locale=en&layout=compact" alt="mahesh-panchal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-panchal&show_icons=true&locale=en" alt="mahesh-panchal" /></p>
