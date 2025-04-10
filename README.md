@@ -9,7 +9,7 @@ flowchart LR
 
 ### I'm Mahesh Binzer-Panchal
 
-<table border="0" width="100%">
+<table style="width:100%; border:0">
   <tr>
     <td>
 
@@ -35,8 +35,8 @@ in the Earth Biogenome Project. As part of my support work, I aim to make my wor
 and containerized software. I use [this template](https://github.com/mahesh-panchal/NBIS_project_template) as the starting point for my work,
 keeping data, files, and code organised, and hopefully easy to follow and extend for those I support.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Earth-Biogenome-Project-pilot)](https://github.com/NBISweden/Earth-Biogenome-Project-pilot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow)](https://github.com/NBISweden/pipelines-nextflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Earth-Biogenome-Project-pilot&description_lines_count=3)](https://github.com/NBISweden/Earth-Biogenome-Project-pilot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow&description_lines_count=3)](https://github.com/NBISweden/pipelines-nextflow)
 
 
 I'm adept at programming, and writing workflows in particular. I'm well versed in Bash scripting, as well being able to use Perl, awk, sed, 
@@ -72,20 +72,17 @@ I'm currently a [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html),
 
 ### Interesting Nextflow repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahesh-panchal&repo=nf-cascade)](https://github.com/mahesh-panchal/nf-cascade)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahesh-panchal&repo=nf-metaomics-daisychain)](https://github.com/mahesh-panchal/nf-metaomics-daisychain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahesh-panchal&repo=nf-cascade&description_lines_count=3)](https://github.com/mahesh-panchal/nf-cascade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahesh-panchal&repo=nf-metaomics-daisychain&description_lines_count=3)](https://github.com/mahesh-panchal/nf-metaomics-daisychain)
 
 ## Instructor
 
 I am a certified Carpentries Instructor. I have helped develop [The Carpentries Introduction to Nextflow](https://github.com/carpentries-incubator/workflows-nextflow).
 
-I'm a teaching assistant on the NBIS/Elixir Tools for Reproducible Research course:
+I'm a teaching assistant on the NBIS/Elixir Tools for Reproducible Research course, and engage in reguar team development:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=workshop-reproducible-research)](https://github.com/NBISweden/workshop-reproducible-research)
-
-I also engage in team development:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Training-Tech-shorts)](https://github.com/NBISweden/Training-Tech-shorts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=workshop-reproducible-research&description_lines_count=3)](https://github.com/NBISweden/workshop-reproducible-research)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=Training-Tech-shorts&description_lines_count=3)](https://github.com/NBISweden/Training-Tech-shorts)
 
 ### Languages and Tools:
 
