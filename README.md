@@ -1,9 +1,4 @@
-```mermaid
-%%{init: {'theme':'forest'}}%%
-flowchart LR
-  data_analyst>Data Analyst] --> da_tasks{Analyse Data} --> gather_requirements[Gather Requirements] --> explore[Exploratory Analysis] --> visualise[Create Visualisations] --> report[Report Insights]
-  pipeline_dev>Pipeline Developer] --> pd_tasks{Develop Pipeline} --> design[Design Pipeline] --> implement[Implement Processes] --> optimize[Optimise Dataflow] --> monitor[Monitor Performance]
-```
+![](readme-workflow-2025-04-17.excalidraw.png)
 
 # Hi there 👋
 
