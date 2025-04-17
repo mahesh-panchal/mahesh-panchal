@@ -9,6 +9,8 @@ flowchart LR
 
 ### I'm Mahesh Binzer-Panchal
 
+[My profile summary](https://profile-summary-for-github.com/user/mahesh-panchal)
+
 <table style="width:100%; border:0">
   <tr>
     <td>
@@ -23,8 +25,6 @@ flowchart LR
     </td>
   </tr>
 </table>
-
-[My profile summary](https://profile-summary-for-github.com/user/mahesh-panchal)
 
 ## Bioinformatician: 
 ### At the National Bioinformatics Infrastructure Sweden, SciLifeLab.
