@@ -24,6 +24,8 @@ flowchart LR
   </tr>
 </table>
 
+[My profile summary](https://profile-summary-for-github.com/user/mahesh-panchal)
+
 ## Bioinformatician: 
 ### At the National Bioinformatics Infrastructure Sweden, SciLifeLab.
 
