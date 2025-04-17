@@ -45,7 +45,10 @@ as well as Github Actions and Makefiles for automation, and Gitpod as a developm
 ## Nf-core Maintainer and Nextflow Ambassador
 
 I contribute to the nf-core and Nextflow community, helping answer questions and develop best-practice workflows.
-- [A thank you from Phil Ewels on behalf of the nf-core community at the Nextflow summit](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
+
+- [Watch the video: Phil Ewels - A thank you on behalf of the nf-core community at the Nextflow summit - Barcelona 2024](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
+
+  [![Watch the video](https://img.youtube.com/vi/B-OqciShiHY/0.jpg)](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
 
 I'm currently a [Nextflow Ambassador](https://www.nextflow.io/ambassadors.html), and an [nf-core Maintainer](https://nf-co.re/governance#maintainers). 
 
