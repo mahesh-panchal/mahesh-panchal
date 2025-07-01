@@ -46,7 +46,7 @@ as well as Github Actions and Makefiles for automation, and Gitpod as a developm
 
 I contribute to the nf-core and Nextflow community, helping answer questions and develop best-practice workflows.
 
-- [Watch the video: Phil Ewels - A thank you on behalf of the nf-core community at the Nextflow summit - Barcelona 2024](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
+- [Watch the video (starts where I'm thanked for my contributions): Phil Ewels - nf-core community updates Nextflow summit - Barcelona 2024](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
 
   [![Watch the video](https://img.youtube.com/vi/B-OqciShiHY/0.jpg)](https://youtu.be/B-OqciShiHY?si=xGisdrmFm89g--8-&t=718)
 
