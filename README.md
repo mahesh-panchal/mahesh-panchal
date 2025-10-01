@@ -24,7 +24,7 @@
 ## Bioinformatician: 
 ### At the National Bioinformatics Infrastructure Sweden, SciLifeLab.
 
-I support research groups by performing bioinformatic analyses and developing workflows on [request](https://nbis.se/support/support.html). 
+I support research groups through the NBIS user-fee track by performing bioinformatic analyses and developing workflows. 
 My bioinformatic expertise focuses on de novo genome assembly, but I am also able to perform other sequence based analyses, such as variant 
 calling, amplicon analysis, ancient DNA analysis, and more. In addition to my support work, I'm currently helping develop a 
 [genome assembly and annotation workflow](https://github.com/NBISweden/Earth-Biogenome-Project-pilot) for the Swedish Pilot Project 
@@ -36,11 +36,11 @@ keeping data, files, and code organised, and hopefully easy to follow and extend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow&description_lines_count=3)](https://github.com/NBISweden/pipelines-nextflow)
 
 
-I'm adept at programming, and writing workflows in particular. I'm well versed in Bash scripting, as well being able to use Perl, awk, sed, 
+I'm adept at programming, and writing workflows in particular. I'm well versed in Bash scripting, as well being able to use Perl, Python, awk, sed, 
 and R too. I write workflows using the Nextflow workflow language, based on Groovy. I have used various other languages in the past 
 including Java, C, C++, Turing, Haskell, Prolog, and Assembly, including database languages such as PostgresQL. I'm familiar with various 
 markup and serialization languages such as Markdown, HTML, Wiki Markup, Latex, and YAML. In my work, I regularity use Git, Docker, and Singularity, 
-as well as Github Actions and Makefiles for automation, and Gitpod as a development environment.
+as well as Github Actions and Pixi for developer environment automation.
 
 ## Nf-core Maintainer and Nextflow Ambassador
 
@@ -106,6 +106,7 @@ mindmap
       Singularity/Apptainer
       Virtual env
       Modules
+      Pixi
     Version control
       Git
       Github
@@ -129,9 +130,8 @@ mindmap
       Make
       Nextflow
       Quarto
+      Pixi
     Developer environments
-      MacOs
-      Linux
-      Gitpod
-      HPC
+      Devcontainers
+      Pixi
 ```
